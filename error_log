@@ -1,0 +1,29 @@
+[17-Jan-2019 18:54:59 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 18:56:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 18:56:52 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 18:57:15 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 18:57:22 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 18:57:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 18:57:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 19:00:32 Etc/GMT] PHP Notice:  Undefined variable: result3 in /home/bharatnext/public_html/bharatnextapis/login.php on line 48
+[17-Jan-2019 19:00:32 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/bharatnext/public_html/bharatnextapis/login.php on line 48
+[17-Jan-2019 19:00:32 Etc/GMT] PHP Notice:  Undefined variable: result2 in /home/bharatnext/public_html/bharatnextapis/login.php on line 56
+[17-Jan-2019 19:00:32 Etc/GMT] PHP Notice:  Undefined variable: result3 in /home/bharatnext/public_html/bharatnextapis/login.php on line 56
+[17-Jan-2019 19:00:32 Etc/GMT] PHP Notice:  Undefined variable: referls in /home/bharatnext/public_html/bharatnextapis/login.php on line 56
+[17-Jan-2019 19:01:37 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 19:01:53 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 19:02:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 19:11:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 19:14:06 Etc/GMT] PHP Parse error:  syntax error, unexpected '[' in /home/bharatnext/public_html/bharatnextapis/getBearerToken.php on line 35
+[17-Jan-2019 19:40:14 Etc/GMT] PHP Notice:  Undefined variable: pslno in /home/bharatnext/public_html/bharatnextapis/getstatus.php on line 20
+[17-Jan-2019 19:50:18 Etc/GMT] PHP Notice:  Undefined variable: pslno in /home/bharatnext/public_html/bharatnextapis/getstatus.php on line 20
+[18-Jan-2019 05:17:13 Etc/GMT] PHP Notice:  Undefined variable: result2 in /home/bharatnext/public_html/bharatnextapis/login.php on line 56
+[18-Jan-2019 05:17:13 Etc/GMT] PHP Notice:  Undefined variable: referls in /home/bharatnext/public_html/bharatnextapis/login.php on line 56
+[18-Jan-2019 05:17:44 Etc/GMT] PHP Notice:  Undefined variable: userid in /home/bharatnext/public_html/bharatnextapis/login.php on line 17
+[18-Jan-2019 05:17:49 Etc/GMT] PHP Notice:  Undefined variable: userid in /home/bharatnext/public_html/bharatnextapis/login.php on line 17
+[18-Jan-2019 05:17:57 Etc/GMT] PHP Notice:  Undefined variable: name in /home/bharatnext/public_html/bharatnextapis/registration.php on line 10
+[18-Jan-2019 05:17:59 Etc/GMT] PHP Notice:  Undefined variable: name in /home/bharatnext/public_html/bharatnextapis/registration.php on line 10
+[18-Jan-2019 05:18:00 Etc/GMT] PHP Notice:  Undefined variable: name in /home/bharatnext/public_html/bharatnextapis/registration.php on line 10
+[18-Jan-2019 05:18:00 Etc/GMT] PHP Notice:  Undefined variable: name in /home/bharatnext/public_html/bharatnextapis/registration.php on line 10
+[18-Jan-2019 05:18:01 Etc/GMT] PHP Notice:  Undefined variable: name in /home/bharatnext/public_html/bharatnextapis/registration.php on line 10
+[19-Jan-2019 04:33:05 Etc/GMT] PHP Notice:  Undefined variable: referls in /home/bharatnext/public_html/bharatnextapis/login.php on line 56
